@@ -123,15 +123,16 @@
 
 
     <div class="body">
-        <div class="left_body_support">
-            <img src="assets\img\logo.jpg" class="img_right">
-
+        <div class="left_body_service">
+            <img src="assets\img\logoname (1).jpg" class="img_right">
+            <h1 style="color: white; font-weight: 400; text-align:center;  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+                        ">  Services on your Door step</h1>
         </div>
-        <div class="right_body_support">
+        <div class="right_body_service">
             <h1>Request For Service Repair</h1>
             <hr />
             <div class="form_left">
-                <p>Full Name</p>
+                <p>User ID</p>
                 <p>E-Mail</p>
                 <p>Phone</p>
                 <p>Service</p>
@@ -140,10 +141,10 @@
             </div>
             <div class="form_right">
                 <form method="">
-                    <input type="text" placeholder="Enter Name">
+                    <input type="text" placeholder="Enter ID">
                     <input type="email" style="margin: 10px 10px 10px 10px;" placeholder="Enter Email Address">
                     <input type="text" placeholder="Enter Phone Number">
-                    <input type="text" placeholder="Enter Phone Number">
+                    <input type="text" placeholder="Enter Service">
                     <textarea id="msg" name="msg" rows="4" cols="30"> Enter your message here.</textarea>
                     <br /><br />
                     <button class="form_btn">Submit</button>
