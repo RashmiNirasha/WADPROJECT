@@ -59,7 +59,7 @@
 
     <body>
         <?php
-        include('loginNav.php');
+        include('files\loginNav.php');
         ?> 
             <div class="copyrights" style="position:absolute; z-index: -1; width: 100%;">
                 <p>Copyright ©2022 | All Rights Reserved | Website Design & Developed by Group 12​</p>

@@ -12,7 +12,7 @@
     rel="stylesheet"
     href="https://unpkg.com/swiper@7/swiper-bundle.min.css"
     />
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="assets\css\style.css">
 </head>
 <body>
 <?php include 'files\navbar.php';?>
@@ -123,6 +123,6 @@
         </div>
     </div>
     <script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
-    <script src="./main.js"></script>
+    <script src="js\main.js"></script>
 </body>
 </html>
